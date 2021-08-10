@@ -2,11 +2,7 @@
 
 # Hello Microverse
 
-> In this project, I will be setting up a "Hello world" repository. No complex coding is required for this exercise. My goal here  to master all of the tools and best practices I learned about in previous steps. I will be using them in all Microverse projects and most likely in my future job as well, so it is important to know them!
-
-
-
-Additional description about the project and its features.
+> In this project, I will be setting up a "Hello world" repository. No complex coding is required for this exercise. My goal here  is to master all of the tools and best practices I learned e.g linters setup and gitflow. I will be using them in all Microverse projects and most likely in my future job as well, so it is important to know them!
 
 ## Built With
 
@@ -23,12 +19,17 @@ Additional description about the project and its features.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-VS code, chrome browser, git, 
+
+- VS code 
+- chrome browser 
+- git bash
 
 ### Usage
-    run git clone https://github.com/Kingstalux/hello-microverse-project1
-    run code .
-    
+```
+ $ git clone https://github.com/Kingstalux/hello-microverse-project1
+ $ cd hello-microverse-project1
+ $ open index.html file in browser
+```    
 
 
 
